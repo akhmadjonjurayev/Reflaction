@@ -1,0 +1,16 @@
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.exe
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.deps.json
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.runtimeconfig.json
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.runtimeconfig.dev.json
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.dll
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\ref\Reflaction.dll
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\bin\Debug\net5.0\Reflaction.pdb
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.csprojAssemblyReference.cache
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.AssemblyInfoInputs.cache
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.AssemblyInfo.cs
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.csproj.CoreCompileInputs.cache
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.dll
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\ref\Reflaction.dll
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.pdb
+C:\Users\WebDeveloper\source\repos\Reflaction\Reflaction\obj\Debug\net5.0\Reflaction.genruntimeconfig.cache
